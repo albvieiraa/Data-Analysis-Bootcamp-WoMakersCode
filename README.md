@@ -35,3 +35,7 @@ Cada pasta corresponde a um módulo do Bootcamp e contém:
 2. Acesse o diretório do módulo que deseja explorar.
 
 3. Abra os notebooks no Google Colab.
+
+---
+
+🚩 **Observação**: Este projeto faz parte de um aprendizado contínuo. Contribuições e sugestões são bem-vindas!
