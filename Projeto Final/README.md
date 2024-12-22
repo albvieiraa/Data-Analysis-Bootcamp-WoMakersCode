@@ -29,4 +29,4 @@ Esse desafio foi desenvolvido em squad, utilizando as seguintes ferramentas de g
 * Google Meet
 * Discord
 
-![Squad Hedy Lamar](Projeto Final/squad_hedy_lamar.jpg)
+![Squad Hedy Lamar](albvieiraa/Data-Analysis-Bootcamp-WoMakersCode/Projeto Final/squad_hedy_lamar.jpg)
