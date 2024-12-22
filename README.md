@@ -30,7 +30,7 @@ Cada pasta corresponde a um módulo do Bootcamp e contém:
 ## 📈 Como Utilizar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bootcamp-data-analysis.git
+   git clone https://github.com/albvieiraa/Data-Analysis-Bootcamp-WoMakersCode.git
 
 2. Acesse o diretório do módulo que deseja explorar.
 
